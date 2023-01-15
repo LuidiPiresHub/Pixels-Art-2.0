@@ -1,0 +1,15 @@
+.grid {
+  border: solid 2px black;
+  display: grid;
+  grid-template-columns: repeat(10, auto);
+  box-shadow: 15px 15px 30px black;
+  margin-top: 10%;
+}
+
+.pixel {
+  border: 1px solid black;
+  background-color: white;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+}
